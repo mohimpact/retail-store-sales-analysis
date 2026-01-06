@@ -25,3 +25,4 @@ An interactive dashboard was built using Google Sheets.
 
 ## Dashboard Preview
 ![Dashboard](dashboard.png)
+
